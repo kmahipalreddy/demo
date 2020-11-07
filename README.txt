@@ -8,4 +8,6 @@ This is a readme file
 
 This is bound to cause trouble
 
+
+Added new line as very-bad branch
 Added new line as master
